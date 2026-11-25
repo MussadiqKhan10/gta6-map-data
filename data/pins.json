@@ -1,0 +1,983 @@
+[
+  {
+    "title": "'67 Sirius Transgressor",
+    "category": "vehicle",
+    "region": "port-gellhorn",
+    "x": 302,
+    "y": 379,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/67-sirius-transgressor"
+  },
+  {
+    "title": "1010 Murals",
+    "category": "collectible",
+    "region": "vice-city",
+    "x": 684,
+    "y": 500,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/1010-murals"
+  },
+  {
+    "title": "Allied Crystal sugar refinery",
+    "category": "business",
+    "region": "ambrosia",
+    "x": 549,
+    "y": 374,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/businesses/allied-crystal-sugar-refinery"
+  },
+  {
+    "title": "Ambrosia",
+    "category": "region",
+    "region": "ambrosia",
+    "x": 555,
+    "y": 357,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/ambrosia"
+  },
+  {
+    "title": "Andrew Node's Thrax",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 664,
+    "y": 547,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/andrew-nodes-thrax"
+  },
+  {
+    "title": "Arras Bullhead speargun",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 554,
+    "y": 820,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/arras-bullhead-speargun"
+  },
+  {
+    "title": "Arthur Morgan plushy",
+    "category": "collectible",
+    "region": "port-gellhorn",
+    "x": 328,
+    "y": 348,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/arthur-morgan-plushy"
+  },
+  {
+    "title": "Arthur Morgan’s hat (yard sale)",
+    "category": "collectible",
+    "region": "port-gellhorn",
+    "x": 314,
+    "y": 376,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/genuine-cowboy-hat"
+  },
+  {
+    "title": "Assassin Nipper .38",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 558,
+    "y": 807,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/assassin-nipper-38"
+  },
+  {
+    "title": "AudaCity Sandking",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 674,
+    "y": 545,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/audacity-sandking"
+  },
+  {
+    "title": "Auntie's Place",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 679,
+    "y": 504,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/aunties-place"
+  },
+  {
+    "title": "Bigfoot / Skunk Ape sightings",
+    "category": "secret",
+    "region": "grassrivers",
+    "x": 443,
+    "y": 648,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/map"
+  },
+  {
+    "title": "Binoculars",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 671,
+    "y": 507,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/binoculars"
+  },
+  {
+    "title": "Body Copy",
+    "category": "collectible",
+    "region": "leonida-keys",
+    "x": 559,
+    "y": 817,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/body-copy"
+  },
+  {
+    "title": "Bravado '07 Buffalo",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 672,
+    "y": 506,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/bravado-07-buffalo"
+  },
+  {
+    "title": "Brian's Marina Book",
+    "category": "collectible",
+    "region": "leonida-keys",
+    "x": 559,
+    "y": 817,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/brians-marina-book"
+  },
+  {
+    "title": "Brian’s Lockup",
+    "category": "landmark",
+    "region": "leonida-keys",
+    "x": 550,
+    "y": 841,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/brians-lockup"
+  },
+  {
+    "title": "Capri corrupt police mission",
+    "category": "activity",
+    "region": "vice-city",
+    "x": 684,
+    "y": 532,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/capri-corrupt-police-mission"
+  },
+  {
+    "title": "Casa Guardia",
+    "category": "business",
+    "region": "vice-city",
+    "x": 674,
+    "y": 545,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/businesses/casa-guardia"
+  },
+  {
+    "title": "Chromium W-10",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 667,
+    "y": 510,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/chromium-w-10"
+  },
+  {
+    "title": "Cigar Import Front",
+    "category": "business",
+    "region": "vice-city",
+    "x": 677,
+    "y": 496,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/businesses/cigar-import-front"
+  },
+  {
+    "title": "Claw excavators",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 681,
+    "y": 547,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/claw-excavators"
+  },
+  {
+    "title": "Cool Dog: dog island",
+    "category": "secret",
+    "region": null,
+    "x": 735,
+    "y": 905,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/dog-island"
+  },
+  {
+    "title": "Crab lab: Crabshack VF5 SMG",
+    "category": "secret",
+    "region": null,
+    "x": 521,
+    "y": 732,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/crab-lab-pelican-valley"
+  },
+  {
+    "title": "DacityCoin",
+    "category": "collectible",
+    "region": "vice-city",
+    "x": 652,
+    "y": 525,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/dacitycoin"
+  },
+  {
+    "title": "Dazzler DW-9",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 675,
+    "y": 532,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/dazzler-dw-9"
+  },
+  {
+    "title": "Delights Cabaret",
+    "category": "secret",
+    "region": "port-gellhorn",
+    "x": 301,
+    "y": 370,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/delights-cabaret"
+  },
+  {
+    "title": "Devil's Rope Gauntlet",
+    "category": "secret",
+    "region": "ambrosia",
+    "x": 572,
+    "y": 378,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/devils-rope-gauntlet"
+  },
+  {
+    "title": "Dirt bike trails",
+    "category": "activity",
+    "region": "mount-kalaga",
+    "x": 470,
+    "y": 270,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/dirt-bike-racing"
+  },
+  {
+    "title": "Donovan Banks & Co.",
+    "category": "business",
+    "region": "vice-city",
+    "x": 657,
+    "y": 507,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/businesses/donovan-banks-co"
+  },
+  {
+    "title": "Dundreary Cherry Bomb Chino",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 660,
+    "y": 541,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/dundreary-cherry-bomb-chino"
+  },
+  {
+    "title": "Eclipse tribute garage",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 766,
+    "y": 468,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/eclipse-fast-furious-tribute"
+  },
+  {
+    "title": "Flashlight",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 647,
+    "y": 531,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/flashlight"
+  },
+  {
+    "title": "Freddie Gibbs' secret bunker",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 558,
+    "y": 811,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/freddie-gibbs-secret-bunker"
+  },
+  {
+    "title": "GLR 40 Grenade Launcher",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 681,
+    "y": 541,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/glr-40-grenade-launcher"
+  },
+  {
+    "title": "GRX 556",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 681,
+    "y": 509,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/grx-556"
+  },
+  {
+    "title": "Grassrivers",
+    "category": "region",
+    "region": "grassrivers",
+    "x": 450,
+    "y": 663,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/grassrivers"
+  },
+  {
+    "title": "Grassrivers Recreation Area",
+    "category": "secret",
+    "region": "grassrivers",
+    "x": 451,
+    "y": 691,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/grassrivers-recreation-area"
+  },
+  {
+    "title": "Green 1995 Eclipse-style coupe",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 655,
+    "y": 502,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/green-1995-eclipse-style-coupe"
+  },
+  {
+    "title": "Grotti Itali RSX",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 681,
+    "y": 546,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/grotti-itali-rsx"
+  },
+  {
+    "title": "Guardia Brothers FRA",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 664,
+    "y": 510,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/guardia-brothers-fra"
+  },
+  {
+    "title": "Guardia Brothers FRA Assault Rifle",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 660,
+    "y": 517,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/guardia-brothers-fra-assault-rifle"
+  },
+  {
+    "title": "Guardian ES18 Pistol",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 680,
+    "y": 536,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/guardian-es18-pistol"
+  },
+  {
+    "title": "H&L Revolver",
+    "category": "secret",
+    "region": "ambrosia",
+    "x": 570,
+    "y": 348,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/h-l-revolver"
+  },
+  {
+    "title": "Hamlet loot warehouse (\"teddy bear factory\")",
+    "category": "secret",
+    "region": "grassrivers",
+    "x": 561,
+    "y": 686,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/hamlet-warehouse"
+  },
+  {
+    "title": "Haymarket Hotel",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 659,
+    "y": 525,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/haymarket-hotel"
+  },
+  {
+    "title": "Highwayman Sanchez",
+    "category": "vehicle",
+    "region": "port-gellhorn",
+    "x": 302,
+    "y": 378,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/highwayman-sanchez"
+  },
+  {
+    "title": "Hog Stars Garage",
+    "category": "secret",
+    "region": "ambrosia",
+    "x": 567,
+    "y": 367,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/hog-stars-garage"
+  },
+  {
+    "title": "Hunting grounds",
+    "category": "activity",
+    "region": "mount-kalaga",
+    "x": 514,
+    "y": 235,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/hunting"
+  },
+  {
+    "title": "Jack of Hearts",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 675,
+    "y": 538,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/jack-of-hearts"
+  },
+  {
+    "title": "Kamar Devon Community Center",
+    "category": "business",
+    "region": "vice-city",
+    "x": 690,
+    "y": 523,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/businesses/kamar-devon-community-center"
+  },
+  {
+    "title": "Key Lento parrot stash",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 556,
+    "y": 838,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/key-lento-parrot-stash"
+  },
+  {
+    "title": "Killtelligence SM-69",
+    "category": "secret",
+    "region": "mount-kalaga",
+    "x": 491,
+    "y": 225,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/killtelligence-sm-69"
+  },
+  {
+    "title": "Kingpin Bowling",
+    "category": "secret",
+    "region": "port-gellhorn",
+    "x": 309,
+    "y": 346,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/kingpin-bowling"
+  },
+  {
+    "title": "LPL Tower",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 552,
+    "y": 815,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/lpl-tower"
+  },
+  {
+    "title": "La Cascara Motel",
+    "category": "secret",
+    "region": "port-gellhorn",
+    "x": 333,
+    "y": 357,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/la-cascara-motel"
+  },
+  {
+    "title": "Leonida Carrier Warehouse",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 656,
+    "y": 520,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/leonida-carrier-warehouse"
+  },
+  {
+    "title": "Leonida Keys",
+    "category": "region",
+    "region": "leonida-keys",
+    "x": 568,
+    "y": 833,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/leonida-keys"
+  },
+  {
+    "title": "Leonida State Prison",
+    "category": "landmark",
+    "region": null,
+    "x": 402,
+    "y": 460,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/locations/leonida-penitentiary"
+  },
+  {
+    "title": "Little Cuba compound",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 687,
+    "y": 539,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/little-cuba-compound"
+  },
+  {
+    "title": "Little Friend W-10",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 658,
+    "y": 521,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/little-friend-w-10"
+  },
+  {
+    "title": "Lombank",
+    "category": "business",
+    "region": "vice-city",
+    "x": 658,
+    "y": 509,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/businesses/lombank"
+  },
+  {
+    "title": "Malibu Club",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 683,
+    "y": 530,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/malibu-club"
+  },
+  {
+    "title": "Marbelle Hotel (haunted)",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 677,
+    "y": 496,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/marbelle-hotel"
+  },
+  {
+    "title": "Merlin’s Palace Casino",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 664,
+    "y": 537,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/merlins-palace-casino"
+  },
+  {
+    "title": "Mile Zero Air Station",
+    "category": "landmark",
+    "region": "leonida-keys",
+    "x": 275,
+    "y": 869,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/map"
+  },
+  {
+    "title": "Monarch Avarus",
+    "category": "vehicle",
+    "region": "ambrosia",
+    "x": 544,
+    "y": 377,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/monarch-avarus"
+  },
+  {
+    "title": "Mount Kalaga",
+    "category": "region",
+    "region": "mount-kalaga",
+    "x": 493,
+    "y": 206,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/mount-kalaga"
+  },
+  {
+    "title": "Mount Kalaga National Park",
+    "category": "landmark",
+    "region": "mount-kalaga",
+    "x": 497,
+    "y": 226,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/locations/mount-kalaga-national-park"
+  },
+  {
+    "title": "NOS muscle car + Short Straw shotgun",
+    "category": "vehicle",
+    "region": "ambrosia",
+    "x": 543,
+    "y": 366,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/nos-muscle-car-ambrosia"
+  },
+  {
+    "title": "Nightlight Schafter",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 674,
+    "y": 544,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/nightlight-schafter"
+  },
+  {
+    "title": "Nine1Nine",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 694,
+    "y": 511,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/nine1nine"
+  },
+  {
+    "title": "Novak Lauret Haute Grandeur Luxury Watch",
+    "category": "collectible",
+    "region": "vice-city",
+    "x": 675,
+    "y": 532,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/novak-lauret-haute-grandeur-luxury-watch"
+  },
+  {
+    "title": "Ocean Beach",
+    "category": "landmark",
+    "region": "vice-city",
+    "x": 863,
+    "y": 522,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/map"
+  },
+  {
+    "title": "Ocean Beach Lab",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 681,
+    "y": 514,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/ocean-beach-lab"
+  },
+  {
+    "title": "PTT Youngin$ K17 Pistol",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 687,
+    "y": 498,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/ptt-youngin-k17-pistol"
+  },
+  {
+    "title": "Passenger airliners",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 649,
+    "y": 524,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/passenger-airliners"
+  },
+  {
+    "title": "Peewees Billboards",
+    "category": "collectible",
+    "region": "grassrivers",
+    "x": 477,
+    "y": 662,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/peewees-billboards"
+  },
+  {
+    "title": "Pentagram ritual",
+    "category": "activity",
+    "region": "vice-city",
+    "x": 694,
+    "y": 525,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/pentagram-ritual"
+  },
+  {
+    "title": "Penumbra FF",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 663,
+    "y": 508,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/penumbra-ff"
+  },
+  {
+    "title": "Pfister Growler (pink)",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 662,
+    "y": 504,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/pfister-growler-pink"
+  },
+  {
+    "title": "Port Gellhorn",
+    "category": "region",
+    "region": "port-gellhorn",
+    "x": 305,
+    "y": 358,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/port-gellhorn"
+  },
+  {
+    "title": "President's bunker",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 697,
+    "y": 528,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/presidents-bunker"
+  },
+  {
+    "title": "Progen Royal Ruby Emerus",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 655,
+    "y": 530,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/progen-royal-ruby-emerus"
+  },
+  {
+    "title": "Rhino tank",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 679,
+    "y": 511,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/rhino-tank"
+  },
+  {
+    "title": "Russo's 1922",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 675,
+    "y": 539,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/russos-1922"
+  },
+  {
+    "title": "Sahara Driver",
+    "category": "activity",
+    "region": "vice-city",
+    "x": 675,
+    "y": 540,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/sahara-driver"
+  },
+  {
+    "title": "Shrewsbury SM-69 sniper rifle",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 559,
+    "y": 844,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/shrewsbury-sm-69-sniper-rifle"
+  },
+  {
+    "title": "Slim Jim",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 661,
+    "y": 540,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/slim-jim"
+  },
+  {
+    "title": "Starlet Motel",
+    "category": "landmark",
+    "region": "port-gellhorn",
+    "x": 300,
+    "y": 385,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/starlet-motel"
+  },
+  {
+    "title": "Sunlite Motel",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 673,
+    "y": 547,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/sunlite-motel"
+  },
+  {
+    "title": "The Final Chapter biker hideout",
+    "category": "secret",
+    "region": "ambrosia",
+    "x": 542,
+    "y": 357,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/the-final-chapter-biker-hideout"
+  },
+  {
+    "title": "The Rusty Anchor",
+    "category": "landmark",
+    "region": "leonida-keys",
+    "x": 585,
+    "y": 850,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/rusty-anchor"
+  },
+  {
+    "title": "Tiger motel (south of Hamlet)",
+    "category": "secret",
+    "region": "grassrivers",
+    "x": 566,
+    "y": 705,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/tiger-motel-south-hamlet"
+  },
+  {
+    "title": "Tommy Vercetti's Hawaiian shirt",
+    "category": "collectible",
+    "region": "vice-city",
+    "x": 671,
+    "y": 509,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/collectibles/tommy-vercettis-hawaiian-shirt"
+  },
+  {
+    "title": "Tommy's bike",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 684,
+    "y": 521,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/tommys-bike"
+  },
+  {
+    "title": "Treasure diving and sharks",
+    "category": "activity",
+    "region": "leonida-keys",
+    "x": 643,
+    "y": 809,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/treasure-diving"
+  },
+  {
+    "title": "Truffade Thrax",
+    "category": "vehicle",
+    "region": "vice-city",
+    "x": 677,
+    "y": 497,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/vehicles/truffade-thrax"
+  },
+  {
+    "title": "UFO sightings (night)",
+    "category": "secret",
+    "region": "mount-kalaga",
+    "x": 464,
+    "y": 245,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/activities/ufo-hunting"
+  },
+  {
+    "title": "Urca de Cinco Torres",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 586,
+    "y": 824,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/urca-de-cinco-torres"
+  },
+  {
+    "title": "Urca de Santa Sierra",
+    "category": "secret",
+    "region": "leonida-keys",
+    "x": 541,
+    "y": 825,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/urca-de-santa-sierra"
+  },
+  {
+    "title": "Vice Beach",
+    "category": "landmark",
+    "region": "vice-city",
+    "x": 850,
+    "y": 490,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/map"
+  },
+  {
+    "title": "Vice City",
+    "category": "region",
+    "region": "vice-city",
+    "x": 671,
+    "y": 521,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/wiki/regions/vice-city"
+  },
+  {
+    "title": "Vice City International Airport",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 675,
+    "y": 534,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/vice-city-international-airport"
+  },
+  {
+    "title": "Vice City International Airport (VCIA)",
+    "category": "landmark",
+    "region": "vice-city",
+    "x": 566,
+    "y": 572,
+    "precision": "approximate",
+    "url": "https://leonidaplayers.com/map"
+  },
+  {
+    "title": "Vice City Oceanarium",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 651,
+    "y": 538,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/vice-city-oceanarium"
+  },
+  {
+    "title": "Wildland Zoo",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 651,
+    "y": 524,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/wildland-zoo"
+  },
+  {
+    "title": "Y Hotel",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 661,
+    "y": 514,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/locations/y-hotel"
+  },
+  {
+    "title": "Zodiac Nipper .38 pistol",
+    "category": "secret",
+    "region": "vice-city",
+    "x": 672,
+    "y": 504,
+    "precision": "region",
+    "url": "https://leonidaplayers.com/wiki/weapons/zodiac-nipper-38-pistol"
+  }
+]
